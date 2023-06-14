@@ -1,0 +1,2 @@
+# reduxSlice
+Created with CodeSandbox
